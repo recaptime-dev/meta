@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-issue-forms.json
+title: "Other/General requests"
+name: "[misc]"
+description: Sample description
+assignees:
+  - RecapTimeBot
+  - ajhalili2006
+body:
+  - type: checkboxes
+    attributes:
+      label: Preflight Checks
+      options:
+        - label: >-
+            I have [searched through the issues](https://github.com/recaptime-dev/meta/blob/main/.github/ISSUE_TRACKER_USAGE.md)
+            across the Recap Time Squad's projects here in GitHub and confirmed there are no duplicates.
+          required: true
+        - label: >-
+            I agree to the [Recap Time Squd Community Code of Conduct](https://policies.recaptime.dev/code-of-conduct).
+          required: true
+  - type: textarea
+    attributes:
+      label: About this issue
+      description: Describe what this is all talking about here in depth.
+    id: details
+    validations:
+      required: true
