@@ -1,0 +1,13 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-issue-config.json": "file:///workspaces/recaptime-dev/squad/team-readme/.github/ISSUE_TEMPLATE/config.yml"
+    },
+    "git.alwaysSignOff": true,
+    "gitlens.remotes": [
+        {
+            "domain": "mau.dev",
+            "type": "GitLab",
+            "name": "Manimum GitLab"
+        }
+    ]
+}
