@@ -1,0 +1,10 @@
+# dotenvx / dotenv-vault
+.env.keys
+.env.vault
+# uncomment if you don't use dotenvx
+# .env
+# .env.test
+
+.cache
+*.keep
+*.tmp
