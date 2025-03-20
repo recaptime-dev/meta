@@ -1,6 +1,10 @@
 {
     "yaml.schemas": {
-        "https://json.schemastore.org/github-issue-config.json": "file:///workspaces/recaptime-dev/squad/team-readme/.github/ISSUE_TEMPLATE/config.yml"
+        "https://json.schemastore.org/github-issue-config.json": "file:///workspaces/recaptime-dev/squad/team-readme/.github/ISSUE_TEMPLATE/config.yml",
+        ".gitlab/ci/yaml-schema.json": [
+            ".gitlab/ci/*.gitlab-ci.yml",
+            ".gitlab/ci/.gitlab-ci.yml"
+        ]
     },
     "git.alwaysSignOff": true,
     "gitlens.remotes": [
