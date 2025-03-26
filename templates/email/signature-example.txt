@@ -7,6 +7,6 @@ Recap Time Squad is fiscally sponsored by The Hack Foundation (d.b.a. Hack Club)
 a 501(c)(3) US nonprofit (EIN: 81-2908499). Learn more: https://hackclub.com/fiscal-sponsorship
 
 <!-- if Recap Time Squad's affliated projects and subsidiaries -->
-[Project Name Here], a Recap Time Squad (https://recaptime.dev) project, is fiscally
-sponsored by The Hack Foundation (d.b.a. Hack Club), a 501(c)(3) US nonprofit
-(EIN: 81-2908499). Learn more: https://hackclub.com/fiscal-sponsorship
+[Project Name Here] (https://link-to-project.tld), a Recap Time Squad (https://recaptime.dev) project,
+is fiscally sponsored by The Hack Foundation (d.b.a. Hack Club), a 501(c)(3) US nonprofit with
+EIN 81-2908499. Learn more: https://hackclub.com/fiscal-sponsorship
