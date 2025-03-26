@@ -4,6 +4,9 @@ contact_links:
   - name: Security related inquiries
     url: https://recaptime.dev/security
     about: Found a security bug in our projects or issue with our infra? Let us know.
+  - name: Infrastructure?
+    url: https://github.com/recaptime-dev/infraops/issues
+    about: Issues relating to our infrastructure should go here (i.e. secrets on Doppler/1Password, DNS, etc.)
   - name: We've moved most of our open-source operations on GitLab SaaS
     url: https://gitlab.com/recaptime-dev/squad/meta/issues
     about: Please take issues there, as most requests on GitHub may be unmonitored.

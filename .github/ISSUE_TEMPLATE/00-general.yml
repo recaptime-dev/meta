@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-issue-forms.json
-title: "Other/General requests"
-name: "[misc]"
+title: "[general] <your issue title here>"
+name: "Other/General requests"
 description: Sample description
 assignees:
   - RecapTimeBot
@@ -18,9 +18,14 @@ body:
             I agree to the [Recap Time Squd Community Code of Conduct](https://policies.recaptime.dev/code-of-conduct).
           required: true
   - type: textarea
+    id: details
     attributes:
       label: About this issue
       description: Describe what this is all talking about here in depth.
-    id: details
     validations:
       required: true
+  - type: textarea
+    id: additional_resources
+    attributes:
+      label: Additional resources / Prior art
+      description: Related issues, documentation, etc.

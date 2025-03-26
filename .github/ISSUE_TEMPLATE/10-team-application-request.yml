@@ -1,0 +1,67 @@
+name: "Apply to join @recaptime-dev/squad"
+description: Want to join Recap Time Squad? Apply today via this issue form.
+#labels: [ "area/github-membership" ] # TODO
+title: "[team-application] application for $YOUR_USERNAME"
+body:
+- type: markdown
+  attributes:
+    value: |
+      # Application form for join Recap Time Squad
+
+      Hello there and thanks for your interest in joining the team. We'll use this issue form template to
+      help us review team applications and get you onboarded faster if yours got approved.
+- id: requirements
+  type: checkboxes
+  attributes:
+    label: Prefight Checks / Requirements
+    options:
+    - label: I agree to the [Recap Time Squd Community Code of Conduct](https://policies.recaptime.dev/code-of-conduct). 
+      required: true
+    - label: I have enabled 2FA both [on my GitHub account](https://github.com/settings/security) and [GitLab SaaS account](https://gitlab.com/-/profile/two_factor_auth)
+      required: true
+- id: country
+  type: input
+  attributes:
+    label: Country and timezone
+    description: We'll use this internally for identity verification and for compliance with US sanctions from our fiscal sponsor.
+- type: dropdown
+  attributes:
+    label: Desired team
+    description: This is optional, but we used it to assign you to what team you will go. As a small open-source organization, you may be go a bit of a all-rounder here in the meanwhile.
+    multiple: true
+    options:
+      - Engineering and Open-source (including DevSecOps/Platform Engineering)
+      - Support
+      - Trust and Safety (Moderation)
+      - Finance / PeopleOps
+      - Others
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Introduce yourself!
+    description: Keep it short and concise, or go deeper if you do. We'll be looking at your profile README and/or website soon.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: List of contributions to open-source projects
+    description: |
+      Links to valid issues submitted, merged patches and other code and non-code contributions.
+      If you contributed to our own projects in the past, please list them first before anything
+      else. You don't need to list them all, just atleast 3-5 recent ones.
+    placeholder: |
+      - PRs reviewed / authored
+      - Issues responded to/filed
+      - Other stuff goes here
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      Thanks for filling up the form! Once submitted, someone from the @recaptime-dev/squad-leads
+      will look though your responses and ask you questions in 1-2 days.
+
+      Remember that since you're submitting your application in the public, make sure you don't
+      submit anything senstive here for your own privacy and safety, such as passwords, API keys
+      or even your address.
