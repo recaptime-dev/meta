@@ -1,12 +1,14 @@
---
-Your Name Here
+---
+Your Name Here (any pronouns here)
 Role, [Recap Time Squad | Project Name Here]
+[Link to project website or use recaptime.dev here]
 
 <!-- if Recap Time Squad -->
-Recap Time Squad is fiscally sponsored by The Hack Foundation (d.b.a. Hack Club),
-a 501(c)(3) US nonprofit (EIN: 81-2908499). Learn more: https://hackclub.com/fiscal-sponsorship
+Fiscal sponsorship disclosure: Recap Time Squad is fiscally sponsored by The Hack Foundation
+(d.b.a. Hack Club), a 501(c)(3) US nonprofit with EIN 81-2908499.
+Learn more: https://hackclub.com/fiscal-sponsorship / https://recaptime.dev/imprint
 
 <!-- if Recap Time Squad's affliated projects and subsidiaries -->
-[Project Name Here] (https://link-to-project.tld), a Recap Time Squad (https://recaptime.dev) project,
+Fiscal sponsorship disclosure: [Project Name Here], a Recap Time Squad (https://recaptime.dev) project,
 is fiscally sponsored by The Hack Foundation (d.b.a. Hack Club), a 501(c)(3) US nonprofit with
-EIN 81-2908499. Learn more: https://hackclub.com/fiscal-sponsorship
+EIN 81-2908499. Learn more: https://hackclub.com/fiscal-sponsorship / https://recaptime.dev/imprint
