@@ -13,5 +13,6 @@
             "type": "GitLab",
             "name": "Manimum GitLab"
         }
-    ]
+    ],
+    "markdown.validate.enabled": true
 }
