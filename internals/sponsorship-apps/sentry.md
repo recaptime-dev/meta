@@ -1,9 +1,5 @@
 # Sentry for Open-source Plan Application
 
-> [!NOTE]
-> We'll be applying for the Sentry for Open-source plan on July 2025, since we're still drafting
-> the application at the moment.
-
 ## Status
 
 - Submitted: 2025-10-26
