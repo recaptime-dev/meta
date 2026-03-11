@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-issue-forms.json
 title: "[general] <your issue title here>"
 name: "Other/General requests"
-description: Sample description
+description: "Can't find the right issue template/form or just want to reach us publicly? Use this form."
 assignees:
   - RecapTimeBot
   - ajhalili2006
