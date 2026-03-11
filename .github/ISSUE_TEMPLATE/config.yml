@@ -1,12 +1,18 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-issue-config.json
 blank_issues_enabled: false
 contact_links:
+  - name: Centralized issue tracking via Phorge
+    url: https://phorge.recaptime.dev
+    about: "We're working on switching to our own installation of Phorge instead of using Jetbrains YouTrack Cloud internally for centralized issue tracking behind the scenes."
   - name: Security related inquiries
     url: https://recaptime.dev/security
     about: Found a security bug in our projects or issue with our infra? Let us know.
   - name: Infrastructure?
     url: https://github.com/recaptime-dev/infraops/issues
     about: Issues relating to our infrastructure should go here (i.e. secrets on Doppler/1Password, DNS, etc.)
-  - name: We've moved most of our open-source operations on GitLab SaaS
+  - name: "We've moved most of our open-source operations on GitLab SaaS"
     url: https://gitlab.com/recaptime-dev/squad/meta/issues
-    about: Please take issues there, as most requests on GitHub may be unmonitored.
+    about: "Please take issues there, as most requests on GitHub may be unmonitored (ut we'll work on importing them)."
+  - name: "Community Lorebooks meta tracker"
+    url: https://lorebooks.wiki/docs/issue-tracker
+    about: For issues and requests relating to Community Lorebooks subproject, take that there unless it needs coordination from us.
