@@ -3,7 +3,7 @@
 team/ajhalili2006.md @ajhalili2006
 
 # templates for things like replies, can be handled off to community maintainers
-templates/**/*.md @recaptime-dev/maintainers
+templates/**/*.md @recaptime-dev/community-maintainers
 
-# defaults to the crew for review
+# defaults to the crew for review on the rest
 * @recaptime-dev/squad
