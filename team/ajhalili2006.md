@@ -9,8 +9,15 @@ metadata:
   is_staff: true
   forges:
     github: ajhalili2006
-    gitlab: https://mau.dev/ajhalili2006
+    gitlab: ajhalili2006
     sourcehut: ajhalili2006
+    tangled: andreijiroh.dev
+  socials:
+    fediverse: https://tilde.zone/@ajhalili2006
+    atmosphere: andreijiroh.dev
+    threads: ajhalili2006
+    instagram: ajhalili2006
+    twitter: ajhalili2006
 tags:
   - squad-members
   - crew-bios
@@ -27,7 +34,7 @@ and the human behind projects such as Community Lorebooks and Hack Club Leeks Bo
 - **Timezone**: GMT+8 (Philippine Standard Time)
 - **Birthdate**: January 23, 2006
 - **Place**: Marilao, Bulacan, Philippines
-- **Role at RecapTime.dev**: Open-source Developer, Squad Lead[^1] / SABDFL
+- **Role at RecapTime.dev**: Lead Open-sourcerer (formally Open-source Developer / Maintainer), Squad Lead[^1] / SABDFL
 - **Email**: `ajhalili2006@crew.recaptime.dev` (crew) / `ajhalili2006@andreijiroh.dev` (personal)
 - **IRC/Matrix**: `ajhalili2006` on LiberaChat, OFTC and tildechat, `@ajhalili2006:envs.net`
 
@@ -40,7 +47,7 @@ the pandemic. I am mostly the TypeScript guy here in both Node.js and Deno runti
 specifically as an early-diagnosed autist (often high-masking in real life), so please apologize for limited
 availability, mainly on hauling over autistic burnout while balancing school and personal life.
 
-Other than being an open-sourcerer here, I am also a writer primarily for [my blog](https://blog.andreijiroh.dev),
+Other than being an open-sourcerer here, I am also a writer primarily for [my blog](https://leaflet.andreijiroh.dev),
 a [MusicBrainz](https://musicbrainz.org/user/ajhalili2006) editor and a multifandom goober (I mean part of
 multiple fandoms). Currently I am in college, so apologies for the limited availability and delay responses.
 
@@ -57,7 +64,7 @@ fiscal host due to [their in-house tooling][hcb-repo], similar to Open Collectiv
 ## Socials
 
 I am mostly found active over at [the fediverse via `@ajhalili2006@tilde.zone`][fediverse]
-([also on Vivaldi Social][vivaldi.net] and [Hackstodon]) and [the Atmosphere via Bluesky at `@andreijiroh.dev`][Bluesky],
+([also on Vivaldi Social][vivaldi.net]) and [the Atmosphere via Bluesky at `@andreijiroh.dev`][Bluesky],
 with varying degrees of activity at [Reddit], [Substack], [Tumblr],
 and [Instagram] / [Threads] / [Facebook].
 
@@ -68,7 +75,6 @@ You can find all the links and more at my [Linktree](https://linktr.ee/ajhalili2
 
 [fediverse]: https://tilde.zone/@ajhalili2006
 [vivaldi.net]: https://social.vivaldi.net/@ajhalili2006
-[Hackstodon]: https://social.dino.icu/@ajhalili2006
 [Bluesky]: https://bsky.app/profile/andreijiroh.dev
 [Tumblr]: https://tumblr.com/ajhalili2006
 [Reddit]: https://reddit.com/user/andreihalili
@@ -76,5 +82,4 @@ You can find all the links and more at my [Linktree](https://linktr.ee/ajhalili2
 [Instagram]: https://instagram.com/ajhalili2006
 [Threads]: https://threads.net/@ajhalili2006
 [Facebook]: https://facebook.com/ajhalili2006
-
 [hcb-repo]: https://github.com/hackclub/hcb
