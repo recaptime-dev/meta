@@ -16,14 +16,14 @@ Once ready, submit them at <https://www.cloudflare.com/lp/project-alexandria/>.
 
 ## Application proper
 
-### Recap Time Squad (draft)
+### Recap Time Squad (final as of 2026-10-11)
 
 * Project name: Recap Time Squad
 * Project URL: <https://recaptime.dev>
 * Project Repository URL: <https://github.com/recaptime-dev/meta>
 * Cloudflare Account ID: `33e6189a4a87f1923e71af8da171e2ed`
 * Project descripton and resources for dev community: Recap Time Squad is an open-source umbrella organization based in the Philippines, building and shipping open-source projects ranging from developer tooling to repo and CI/CD cookbooks/templates.
-* How will CF sponsorship benefit the org: Our most used Cloudflare products are Pages and Workers for our website and tools we build, Tunnels for our self-hosted infra and R2 for object storage. We're looking to use Cloudflare Pro plan across our domains alongside Workers Paid and R2 Paid credits to cover our infra alongside 
+* How will CF sponsorship benefit the org: Our most used Cloudflare products are Pages and Workers for our website and tools we build, Tunnels for our self-hosted infra and R2 for object storage. We're looking to use Cloudflare Pro plan across our domains alongside Workers Paid and R2 Paid credits to cover our infra alongside things like Zero Trust and Advanced Certificate Manager.
 * Additional information: Recap Time Squad is fiscally sponsored by The Hack Foundation (d.b.a Hack Club), a US 501(c)(3) non-profit.
 
 ### Comunity Lorebooks (draft)
@@ -32,6 +32,6 @@ Once ready, submit them at <https://www.cloudflare.com/lp/project-alexandria/>.
 * Project URL: <https://lorebooks.wiki>
 * Project Repository URL: <https://github.com/lorebooks-wiki/registry>
 * Cloudflare Account ID: `b449d122b93967017aaaca1422691e68`
-* Project description and resources for dev community: Community Lorebooks is a free subdomain service primarilly for personal digital gardens, community wikis and project documentations sites, alongside being home of Recap Time Squad (the project's parent organization)'s documentation and related projects.
-* How will CF sponsorship benefit the project:
+* Project description and resources for dev community: Community Lorebooks is a free subdomain service primarily for personal digital gardens, community wikis and project documentations sites, alongside being home of Recap Time Squad (the project's parent organization)'s documentation and related projects.
+* How will CF sponsorship benefit the project: Since we're offering `.wiki` TLD-based subdomains primarily for community wikis and digital gardens (but anything within non-commercial activity per our terms/AUP)
 * Additional information: Community Lorebooks, a Recap Time Squad project, is fiscally sponsored by The Hack Foundation (d.b.a Hack Club), a US 501(c)(3) non-profit. 
